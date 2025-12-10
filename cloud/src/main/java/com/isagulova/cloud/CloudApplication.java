@@ -13,3 +13,5 @@ public class CloudApplication {
 	}
 
 } // http://localhost:8888/test-client.properties
+ // http://localhost:8888/news-client.properties
+ // http://localhost:8888/users-client.properties
