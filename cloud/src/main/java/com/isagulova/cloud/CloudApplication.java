@@ -12,4 +12,4 @@ public class CloudApplication {
 		SpringApplication.run(CloudApplication.class, args);
 	}
 
-} // http://localhost:8888/test-client
+} // http://localhost:8888/test-client.properties

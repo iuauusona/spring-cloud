@@ -7,12 +7,6 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.3.4</version>
     </parent>
-<!--	<parent>-->
-<!--		<groupId>org.springframework.boot</groupId>-->
-<!--		<artifactId>spring-boot-starter-parent</artifactId>-->
-<!--		<version>4.0.0</version>-->
-<!--		<relativePath/> &lt;!&ndash; lookup parent from repository &ndash;&gt;-->
-<!--	</parent>-->
 	<groupId>com.isagulova</groupId>
 	<artifactId>cloud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
